@@ -242,7 +242,7 @@
     },
     {
       "id": 21,
-      "category": "Dhotis & Shirts for Mens",
+      "category": "Mens dhosti's",
       "name": "Green Cotton Dhoti & Shirt Set",
       "gender": "Male",
       "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
@@ -263,7 +263,7 @@
     },
     {
       "id": 22,
-      "category": "Dhotis & Shirts for Mens",
+      "category": "Mens dhosti's",
       "name": "Blue Cotton Dhoti & Shirt Set",
       "gender": "Male",
       "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
@@ -284,7 +284,7 @@
     },
     {
       "id": 23,
-      "category": "Dhotis & Shirts for Mens",
+      "category": "Mens dhosti's",
       "name": "Yellow Cotton Dhoti & Shirt Set",
       "gender": "Male",
       "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
@@ -305,7 +305,7 @@
     },
     {
       "id": 24,
-      "category": "Dhotis & Shirts for Mens",
+      "category": "Mens dhosti's",
       "name": "Red Cotton Dhoti & Shirt Set",
       "gender": "Male",
       "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
@@ -326,7 +326,7 @@
     },
     {
       "id": 29,
-      "category": "Dhotis & Shirts for Kids",
+      "category": "Kids dhosti's",
       "name": "Boys Green Dhoti & Shirt",
       "gender": "Male",
       "sizes": ["S", "M", "L"],
@@ -347,7 +347,7 @@
     },
     {
       "id": 30,
-      "category": "Dhotis & Shirts for Kids",
+      "category": "Kids dhosti's",
       "name": "Boys Blue Dhoti & Shirt",
       "gender": "Male",
       "sizes": ["S", "M", "L"],
@@ -368,7 +368,7 @@
     },
     {
       "id": 31,
-      "category": "Dhotis & Shirts for Kids",
+      "category": "Kids dhosti's",
       "name": "Boys Yellow Dhoti & Shirt",
       "gender": "Male",
       "sizes": ["S", "M", "L"],
@@ -389,7 +389,7 @@
     },
     {
       "id": 32,
-      "category": "Dhotis & Shirts for Kids",
+      "category": "Kids dhosti's",
       "name": "Boys Red Dhoti & Shirt",
       "gender": "Male",
       "sizes": ["S", "M", "L"],
@@ -410,5 +410,6 @@
     }
   ]
 }
+
 
 
